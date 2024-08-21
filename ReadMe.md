@@ -1,5 +1,3 @@
-Here's a template for a README file for the provided code:
-
 ---
 
 # E-Toilet System
